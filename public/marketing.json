@@ -1,0 +1,92 @@
+[
+    {
+        "agency": "MediaOne",
+        "clients": ["Canon", "Changi Airport", "SingTel", "Maybank"],
+        "services": ["SEO", "SEM", "Social Media Marketing", "Content Marketing"],
+        "designStyle": "Corporate, Informative",
+        "cultureFocus": "Global, Data-Driven",
+        "keyInsights": "MediaOne uses a strong data-driven approach with a wide range of digital services targeting high-performing campaigns.",
+        "website": "https://mediaonemarketing.com.sg/"
+    },
+    {
+        "agency": "Impossible Marketing",
+        "clients": ["NTUC", "NUS", "Great Eastern", "DBS"],
+        "services": ["SEO", "Lead Generation", "Google Ads", "Facebook Ads"],
+        "designStyle": "Clean, Conversion-Focused",
+        "cultureFocus": "Local, Performance-Oriented",
+        "keyInsights": "They focus heavily on lead generation and ROI, especially for local businesses aiming to grow digitally.",
+        "website": "https://www.impossible.sg/"
+    },
+    {
+        "agency": "Brew Interactive",
+        "clients": ["Hitachi", "NTUC Income", "Opal Lawyers"],
+        "services": ["Inbound Marketing", "HubSpot Management", "LinkedIn Marketing", "Web Strategy"],
+        "designStyle": "Professional, Engaging",
+        "cultureFocus": "B2B, Global",
+        "keyInsights": "Brew Interactive specializes in inbound strategies, with a strong focus on HubSpot and B2B marketing.",
+        "website": "https://brewinteractive.com/"
+    },
+    {
+        "agency": "Clickr Media",
+        "clients": ["SMU", "Brother", "Heineken"],
+        "services": ["SEO", "Email Marketing", "Performance Ads", "Content Strategy"],
+        "designStyle": "Modern, Campaign-Based",
+        "cultureFocus": "Creative, Campaign-Oriented",
+        "keyInsights": "Clickr Media designs full-funnel marketing campaigns from awareness to conversion, with creative integration.",
+        "website": "https://www.clickrmedia.com/"
+    },
+    {
+        "agency": "First Page",
+        "clients": ["L'Oreal", "Eu Yan Sang", "Lazada"],
+        "services": ["SEO", "Pay Per Click", "Social Media", "Content Creation"],
+        "designStyle": "Bold, Sales-Driven",
+        "cultureFocus": "Global Brands, E-commerce",
+        "keyInsights": "Focused on measurable ROI, First Page helps brands scale fast using paid + organic strategies.",
+        "website": "https://www.firstpagedigital.sg/"
+    },
+    {
+        "agency": "2Stallions",
+        "clients": ["Capitaland", "DHL", "FlyScoot"],
+        "services": ["Digital Strategy", "SEO", "Creative Production", "Analytics"],
+        "designStyle": "Innovative, Data-Backed",
+        "cultureFocus": "Corporate, Analytical",
+        "keyInsights": "They combine storytelling with analytics and performance marketing, ideal for corporate clients.",
+        "website": "https://2stallions.com/"
+    },
+    {
+        "agency": "Hashmeta",
+        "clients": ["Canon", "Toys R Us", "Manulife"],
+        "services": ["Social Media", "Influencer Marketing", "E-commerce Marketing", "Gamification"],
+        "designStyle": "Youthful, Interactive",
+        "cultureFocus": "Trendy, Social-First",
+        "keyInsights": "Hashmeta stands out for their gamified and influencer-led campaigns — ideal for brands targeting youth.",
+        "website": "https://hashmeta.com/"
+    },
+    {
+        "agency": "Construct Digital",
+        "clients": ["SAP", "Canon", "AIA"],
+        "services": ["B2B Marketing", "Marketing Automation", "Email Campaigns", "CRM"],
+        "designStyle": "Clean, B2B Focused",
+        "cultureFocus": "Enterprise, Global",
+        "keyInsights": "Focused on B2B and marketing tech, Construct helps large enterprises improve customer journeys and automate marketing.",
+        "website": "https://www.constructdigital.com/"
+    },
+    {
+        "agency": "Digital Market",
+        "clients": ["Local SMEs", "Startups"],
+        "services": ["SEO", "Google Ads", "Local Listings", "Facebook Boosting"],
+        "designStyle": "Simple, SME Friendly",
+        "cultureFocus": "Local, Affordable",
+        "keyInsights": "Great for small business owners seeking affordable marketing with high visibility across local platforms.",
+        "website": "https://digitalmarket.sg/"
+    },
+    {
+        "agency": "Diseno Advertising",
+        "clients": ["Retail Brands", "Healthcare", "F&B"],
+        "services": ["Creative Advertising", "Offline Campaigns", "Digital Media Buying"],
+        "designStyle": "Colorful, Print + Digital",
+        "cultureFocus": "Retail, Fast-Moving",
+        "keyInsights": "Diseno bridges traditional and digital advertising, offering creative content for high-impact campaigns.",
+        "website": "https://www.diseno.com.sg/"
+    }
+]

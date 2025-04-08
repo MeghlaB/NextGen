@@ -1,19 +1,5 @@
 [
-    {
-      "agency": "Again Digital",
-      "services": [
-        "UI/UX Design",
-        "Web Development",
-        "E-Commerce Development",
-        "Digital Marketing"
-      ],
-      "clients": [
-        "N/A"
-      ],
-      "designStyle": "Modern, Clean",
-      "cultureFocus": "Startups, SMEs",
-      "keyInsights": "Focuses on innovative UI/UX design with scalable web solutions tailored for growing businesses."
-    },
+    
     {
       "agency": "Krome",
       "services": [
@@ -27,7 +13,8 @@
       ],
       "designStyle": "Stylish, Functional",
       "cultureFocus": "Creative Agencies, Startups",
-      "keyInsights": "Combines design and functionality to create engaging digital experiences for various industries."
+      "keyInsights": "Combines design and functionality to create engaging digital experiences for various industries.",
+      "website": "https://www.krome.sg/"
     },
     {
       "agency": "Subraa",
@@ -42,7 +29,8 @@
       ],
       "designStyle": "Minimalist, Professional",
       "cultureFocus": "Freelancers, Local Clients",
-      "keyInsights": "Personalized and affordable web solutions for individuals and SMEs with a strong SEO foundation."
+      "keyInsights": "Personalized and affordable web solutions for individuals and SMEs with a strong SEO foundation.",
+      "website": "https://subraa.com/"
     },
     {
       "agency": "Oliver",
@@ -56,7 +44,8 @@
       ],
       "designStyle": "Creative, Brand-Focused",
       "cultureFocus": "Corporate, Global",
-      "keyInsights": "Delivers impactful brand-first web and design services for international markets."
+      "keyInsights": "Delivers impactful brand-first web and design services for international markets.",
+      "website": "https://www.oliver.agency/"
     },
     {
       "agency": "Firstcom Solutions",
@@ -71,7 +60,8 @@
       ],
       "designStyle": "Responsive, UX-heavy",
       "cultureFocus": "SME-focused, Local",
-      "keyInsights": "Specializes in helping local SMEs enhance their digital presence through creative and ad-driven strategies."
+      "keyInsights": "Specializes in helping local SMEs enhance their digital presence through creative and ad-driven strategies.",
+      "website": "https://www.firstcom.com.sg/"
     },
     {
       "agency": "Notion Age",
@@ -90,7 +80,8 @@
       ],
       "designStyle": "Creative & Functional",
       "cultureFocus": "Corporate, Global",
-      "keyInsights": "Blends creative and functional designs to support global corporate clients with innovative web apps and marketing."
+      "keyInsights": "Blends creative and functional designs to support global corporate clients with innovative web apps and marketing.",
+      "website": "https://notionage.sg/"
     },
     {
       "agency": "Ripplewerkz",
@@ -105,7 +96,8 @@
       ],
       "designStyle": "Modern, Multi-platform",
       "cultureFocus": "Startups, SMEs",
-      "keyInsights": "Offers end-to-end digital design solutions for small businesses looking for full-service web and mobile design."
+      "keyInsights": "Offers end-to-end digital design solutions for small businesses looking for full-service web and mobile design.",
+      "website": "https://www.ripplewerkz.com/"
     },
     {
       "agency": "Massive Infinity",
@@ -120,8 +112,25 @@
       ],
       "designStyle": "User-centric, Interactive",
       "cultureFocus": "Enterprise, Government",
-      "keyInsights": "Focuses on interactive digital solutions that drive user engagement and digital transformation."
+      "keyInsights": "Focuses on interactive digital solutions that drive user engagement and digital transformation.",
+      "website": "https://massiveinfinity.com/"
     },
+    {
+        "agency": "Again Digital",
+        "services": [
+          "UI/UX Design",
+          "Web Development",
+          "E-Commerce Development",
+          "Digital Marketing"
+        ],
+        "clients": [
+          "N/A"
+        ],
+        "designStyle": "Modern, Clean",
+        "cultureFocus": "Startups, SMEs",
+        "keyInsights": "Focuses on innovative UI/UX design with scalable web solutions tailored for growing businesses.",
+        "website": "N/A"
+      },
     {
       "agency": "Blak Labs",
       "services": [
@@ -134,7 +143,8 @@
       ],
       "designStyle": "Creative, Story-driven",
       "cultureFocus": "Corporate, Regional",
-      "keyInsights": "Combines storytelling with digital creativity to help brands communicate effectively across platforms."
+      "keyInsights": "Combines storytelling with digital creativity to help brands communicate effectively across platforms.",
+      "website": "https://blaklabs.com/"
     },
     {
       "agency": "OOm Pte Ltd",
@@ -150,6 +160,8 @@
       ],
       "designStyle": "Corporate, SEO-optimized",
       "cultureFocus": "Results-driven, Corporate",
-      "keyInsights": "Data-driven strategies combined with professional web design to improve traffic and conversions."
+      "keyInsights": "Data-driven strategies combined with professional web design to improve traffic and conversions.",
+      "website": "https://www.oom.com.sg/"
     }
   ]
+  

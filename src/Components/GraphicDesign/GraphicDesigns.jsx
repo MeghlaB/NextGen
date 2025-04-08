@@ -8,6 +8,7 @@ function GraphicDesigns({ data }) {
     designStyle,
     keyInsights,
     services,
+    website
   } = data;
 
   return (
@@ -43,7 +44,7 @@ function GraphicDesigns({ data }) {
 
       <div className="mt-6">
         <button className="w-full bg-indigo-600 text-white text-sm font-medium py-2 rounded-xl hover:bg-indigo-700 transition">
-          View Profile
+        <a href={website}> View Profile</a>
         </button>
       </div>
     </div>

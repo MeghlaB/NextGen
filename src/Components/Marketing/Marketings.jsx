@@ -1,6 +1,6 @@
 import React from "react";
 
-function Webserivce({ data }) {
+function Marketings({ data }) {
   const {
     agency,
     clients,
@@ -44,11 +44,11 @@ function Webserivce({ data }) {
 
       <div className="mt-6">
         <button className="w-full bg-indigo-600 text-white text-sm font-medium py-2 rounded-xl hover:bg-indigo-700 transition">
-          <a href={website}>View Profile</a>
+         <a href={website}> View Profile</a>
         </button>
       </div>
     </div>
   );
 }
 
-export default Webserivce;
+export default Marketings;

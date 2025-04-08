@@ -15,7 +15,7 @@ function GraphicDesign() {
   }, []);
 
   return (
-    <div className="container mx-auto grid grid-cols-3 gap-4 px-2 py-6 border ">
+    <div className="container mx-auto grid grid-cols-3 gap-4 px-2 py-6  ">
       {graphicdesign.map((data, idx) => (
       <GraphicDesigns key={idx} data={data}></GraphicDesigns>
         

@@ -4,8 +4,8 @@ import { NavLink } from 'react-router-dom'
 function Nabar() {
 
     const navlinks = <>
-          <NavLink to={'/'}><li>Home</li></NavLink>
-          <NavLink to={'/services'}><li>Services</li></NavLink>
+          <NavLink className={({isActive})=> isActive?'text-blue-500 underline':'text-black'}  to={'/'}><li>Home</li></NavLink>
+          <NavLink className={({isActive})=> isActive?'text-blue-500 underline':'text-black'}  to={'/services'}><li>Services</li></NavLink>
     </>
 
   return (
@@ -24,7 +24,7 @@ function Nabar() {
     <a className="btn btn-ghost text-xl">NextGen</a>
   </div>
   <div className="navbar-center hidden lg:flex">
-    <ul className="menu menu-horizontal px-1">
+    <ul className="menu menu-horizontal px-1 gap-3">
       {navlinks}
     </ul>
   </div>
