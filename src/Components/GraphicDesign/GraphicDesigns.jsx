@@ -1,6 +1,6 @@
 import React from "react";
 
-function Webserivce({ data }) {
+function GraphicDesigns({ data }) {
   const {
     agency,
     clients,
@@ -50,4 +50,4 @@ function Webserivce({ data }) {
   );
 }
 
-export default Webserivce;
+export default GraphicDesigns;

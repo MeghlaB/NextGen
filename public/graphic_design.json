@@ -1,0 +1,83 @@
+[
+    {
+      "agency": "DesignByWonder",
+      "clients": ["Various local & international brands"],
+      "services": ["Branding", "Graphic Design", "Digital Marketing", "UX/UI"],
+      "designStyle": "Creative, Bold",
+      "cultureFocus": "Global, Modern",
+      "keyInsights": "They blend storytelling with creative visuals, focusing on impactful brand experiences."
+    },
+    {
+      "agency": "Kuchoriya TechSoft",
+      "clients": ["Startups", "Tech Companies"],
+      "services": ["Mobile App UI", "Web UI", "Graphic Design"],
+      "designStyle": "Minimal, Modern",
+      "cultureFocus": "Tech-Driven, Scalable",
+      "keyInsights": "Focus on functional design that enhances user experience across digital platforms."
+    },
+    {
+      "agency": "QuirKraft",
+      "clients": ["Lifestyle Brands", "E-commerce"],
+      "services": ["Logo Design", "Visual Identity", "Marketing Collateral"],
+      "designStyle": "Playful, Vibrant",
+      "cultureFocus": "Youthful, Trendy",
+      "keyInsights": "They emphasize fresh and quirky visuals ideal for new-age brands."
+    },
+    {
+      "agency": "Neu Entity",
+      "clients": ["Muslim Entrepreneurs", "Startups"],
+      "services": ["Brand Strategy", "Graphic Design", "Social Media Design"],
+      "designStyle": "Cultural, Elegant",
+      "cultureFocus": "Community-Based, Faith-Centric",
+      "keyInsights": "They blend traditional values with modern branding to empower niche communities."
+    },
+    {
+      "agency": "JIN Design",
+      "clients": ["Shangri-La", "Singtel", "Shopee"],
+      "services": ["Graphic Design", "UX/UI", "Infographics"],
+      "designStyle": "Clean, Structured",
+      "cultureFocus": "Corporate, Scalable",
+      "keyInsights": "Known for highly structured and user-centered design systems that improve clarity."
+    },
+    {
+      "agency": "Conquest Creatives",
+      "clients": ["Government Agencies", "Real Estate"],
+      "services": ["Branding", "Marketing Design", "Editorial Layout"],
+      "designStyle": "Corporate, Visual-Heavy",
+      "cultureFocus": "Professional, Government",
+      "keyInsights": "They focus on authority, clarity and cohesive brand visuals for service providers."
+    },
+    {
+      "agency": "Awebstar Technologies Pte Ltd.",
+      "clients": ["Finance", "E-commerce", "Startups"],
+      "services": ["Graphic Design", "Logo Design", "UI/UX"],
+      "designStyle": "Modern, Professional",
+      "cultureFocus": "Digital-First, Global",
+      "keyInsights": "A full-suite tech company providing scalable graphic assets integrated with dev workflows."
+    },
+    {
+      "agency": "Decadence Design Pte Ltd",
+      "clients": ["Luxury Brands", "Retail Chains"],
+      "services": ["Brand Collateral", "Packaging Design", "Visual Identity"],
+      "designStyle": "Luxury, High-End",
+      "cultureFocus": "Premium, Boutique",
+      "keyInsights": "They focus on premium brand experiences with detail-oriented luxury visuals."
+    },
+    {
+      "agency": "The Brand Fellows",
+      "clients": ["SMEs", "Corporate Brands"],
+      "services": ["Logo Design", "Brand Guidelines", "Print Design"],
+      "designStyle": "Timeless, Strategic",
+      "cultureFocus": "Business-Oriented",
+      "keyInsights": "They mix strategy with strong visuals for long-lasting brand presence."
+    },
+    {
+      "agency": "Ease Communications",
+      "clients": ["Government", "Educational Sector"],
+      "services": ["Graphic Design", "Web Design", "Print & Publishing"],
+      "designStyle": "Simple, Purposeful",
+      "cultureFocus": "Public Sector, Functional",
+      "keyInsights": "Their design language is clean and functional, aligned with institutional requirements."
+    }
+  ]
+  
