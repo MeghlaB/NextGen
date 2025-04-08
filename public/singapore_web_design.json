@@ -1,0 +1,155 @@
+[
+    {
+      "agency": "Again Digital",
+      "services": [
+        "UI/UX Design",
+        "Web Development",
+        "E-Commerce Development",
+        "Digital Marketing"
+      ],
+      "clients": [
+        "N/A"
+      ],
+      "designStyle": "Modern, Clean",
+      "cultureFocus": "Startups, SMEs",
+      "keyInsights": "Focuses on innovative UI/UX design with scalable web solutions tailored for growing businesses."
+    },
+    {
+      "agency": "Krome",
+      "services": [
+        "Web Design",
+        "E-Commerce Setup",
+        "Graphic Design",
+        "Mobile App Design"
+      ],
+      "clients": [
+        "Various Local SMEs"
+      ],
+      "designStyle": "Stylish, Functional",
+      "cultureFocus": "Creative Agencies, Startups",
+      "keyInsights": "Combines design and functionality to create engaging digital experiences for various industries."
+    },
+    {
+      "agency": "Subraa",
+      "services": [
+        "Web Design",
+        "Logo Design",
+        "Web Development",
+        "SEO"
+      ],
+      "clients": [
+        "Freelance clients, SMEs"
+      ],
+      "designStyle": "Minimalist, Professional",
+      "cultureFocus": "Freelancers, Local Clients",
+      "keyInsights": "Personalized and affordable web solutions for individuals and SMEs with a strong SEO foundation."
+    },
+    {
+      "agency": "Oliver",
+      "services": [
+        "Branding",
+        "Web Design",
+        "Graphic Design"
+      ],
+      "clients": [
+        "Global Creative Brands"
+      ],
+      "designStyle": "Creative, Brand-Focused",
+      "cultureFocus": "Corporate, Global",
+      "keyInsights": "Delivers impactful brand-first web and design services for international markets."
+    },
+    {
+      "agency": "Firstcom Solutions",
+      "services": [
+        "Web Design",
+        "SMM",
+        "Creative Content",
+        "Google Ads"
+      ],
+      "clients": [
+        "SMEs to Big Brands"
+      ],
+      "designStyle": "Responsive, UX-heavy",
+      "cultureFocus": "SME-focused, Local",
+      "keyInsights": "Specializes in helping local SMEs enhance their digital presence through creative and ad-driven strategies."
+    },
+    {
+      "agency": "Notion Age",
+      "services": [
+        "Web App Development",
+        "CMS",
+        "SEO",
+        "SEM",
+        "Email Marketing"
+      ],
+      "clients": [
+        "Toshiba",
+        "Microsoft",
+        "Trend Micro",
+        "Sony Ericsson"
+      ],
+      "designStyle": "Creative & Functional",
+      "cultureFocus": "Corporate, Global",
+      "keyInsights": "Blends creative and functional designs to support global corporate clients with innovative web apps and marketing."
+    },
+    {
+      "agency": "Ripplewerkz",
+      "services": [
+        "Web Design",
+        "Graphic Design",
+        "App Development"
+      ],
+      "clients": [
+        "Local Businesses",
+        "Startups"
+      ],
+      "designStyle": "Modern, Multi-platform",
+      "cultureFocus": "Startups, SMEs",
+      "keyInsights": "Offers end-to-end digital design solutions for small businesses looking for full-service web and mobile design."
+    },
+    {
+      "agency": "Massive Infinity",
+      "services": [
+        "Web Design",
+        "Mobile App Development",
+        "UI/UX Design"
+      ],
+      "clients": [
+        "Education Sector",
+        "Government Agencies"
+      ],
+      "designStyle": "User-centric, Interactive",
+      "cultureFocus": "Enterprise, Government",
+      "keyInsights": "Focuses on interactive digital solutions that drive user engagement and digital transformation."
+    },
+    {
+      "agency": "Blak Labs",
+      "services": [
+        "Creative Design",
+        "Media Planning",
+        "Digital Services"
+      ],
+      "clients": [
+        "Major Brands across APAC"
+      ],
+      "designStyle": "Creative, Story-driven",
+      "cultureFocus": "Corporate, Regional",
+      "keyInsights": "Combines storytelling with digital creativity to help brands communicate effectively across platforms."
+    },
+    {
+      "agency": "OOm Pte Ltd",
+      "services": [
+        "Web Design",
+        "SEO",
+        "SMM",
+        "Content Creation"
+      ],
+      "clients": [
+        "Corporate Clients",
+        "Retail Brands"
+      ],
+      "designStyle": "Corporate, SEO-optimized",
+      "cultureFocus": "Results-driven, Corporate",
+      "keyInsights": "Data-driven strategies combined with professional web design to improve traffic and conversions."
+    }
+  ]
