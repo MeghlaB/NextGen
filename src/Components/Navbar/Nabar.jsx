@@ -21,16 +21,14 @@ function Nabar() {
        {navlinks}
       </ul>
     </div>
-    <a className="btn btn-ghost text-xl">NextGen</a>
+    <a className="btn btn-ghost text-2xl">Next<span className='text-blue-700'>Gen </span></a>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1 gap-3">
       {navlinks}
     </ul>
   </div>
-  <div className="navbar-end">
-    <a className="btn">Button</a>
-  </div>
+ 
 </div>
   )
 }

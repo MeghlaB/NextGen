@@ -16,7 +16,7 @@ const cardVariants = {
   }),
 }
 
-function Services() {
+function Top10Services() {
   const services = [
     {
       title: 'Web Service',
@@ -45,9 +45,11 @@ function Services() {
     <div className="py-10 px-4 md:px-10 lg:px-20 bg-gray-50">
       <div className="text-center py-8">
         <h1 className="text-3xl lg:text-4xl font-extrabold text-gray-800">
-          Our<span className="text-yellow-500"> Services</span>
+          Top Ten <span className="text-yellow-500">Singapore Services</span>
         </h1>
-       
+        <p className="text-lg text-gray-600 mt-2">
+          (Web Services, Graphics Design, Marketing)
+        </p>
       </div>
 
       {/* Grid */}
@@ -78,4 +80,4 @@ function Services() {
   )
 }
 
-export default Services
+export default Top10Services
